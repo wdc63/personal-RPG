@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78b2e87d-6800-4709-a4b6-842ece00c031" name="Default" comment="" />
+    <ignored path="MyRPG.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="MyRPG" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="fanqie.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/UI/fujia/fanqie.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-1.28">
+                  <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#4487#5109#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="zhuchuangkou.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/good/zhuchuangkou.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-5.8333335">
+                  <caret line="499" column="108" selection-start-line="499" selection-start-column="21" selection-end-line="499" selection-end-column="108" />
+                  <folding>
+                    <element signature="e#23716#26274#0" expanded="false" />
+                    <element signature="e#28376#29801#0" expanded="false" />
+                    <element signature="e#29900#36507#0" expanded="false" />
+                    <element signature="e#30042#30329#0" expanded="false" />
+                    <element signature="e#30392#30679#0" expanded="false" />
+                    <element signature="e#30739#31026#0" expanded="false" />
+                    <element signature="e#31087#31374#0" expanded="false" />
+                    <element signature="e#31436#31725#0" expanded="false" />
+                    <element signature="e#31784#32071#0" expanded="false" />
+                    <element signature="e#32139#33155#0" expanded="false" />
+                    <element signature="e#33325#34741#0" expanded="false" />
+                    <element signature="e#36579#44684#0" expanded="false" />
+                    <element signature="e#38447#39365#0" expanded="false" />
+                    <element signature="e#39464#44654#0" expanded="false" />
+                    <element signature="e#39602#39892#0" expanded="false" />
+                    <element signature="e#39950#40241#0" expanded="false" />
+                    <element signature="e#40299#40590#0" expanded="false" />
+                    <element signature="e#40648#40939#0" expanded="false" />
+                    <element signature="e#41031#42047#0" expanded="false" />
+                    <element signature="e#42160#43025#0" expanded="false" />
+                    <element signature="e#44785#47593#0" expanded="false" />
+                    <element signature="e#47662#50350#0" expanded="false" />
+                    <element signature="e#50432#51724#0" expanded="false" />
+                    <element signature="e#51801#57324#0" expanded="false" />
+                    <element signature="e#57395#59399#0" expanded="false" />
+                    <element signature="e#59463#60634#0" expanded="false" />
+                    <element signature="e#60696#61259#0" expanded="false" />
+                    <element signature="e#61348#66051#0" expanded="false" />
+                    <element signature="e#66105#77927#0" expanded="false" />
+                    <element signature="e#78026#78721#0" expanded="false" />
+                    <element signature="e#78773#81496#0" expanded="false" />
+                    <element signature="e#81686#81773#0" expanded="false" />
+                    <element signature="e#81977#89731#0" expanded="false" />
+                    <element signature="e#89781#89923#0" expanded="false" />
+                    <element signature="e#89963#90429#0" expanded="false" />
+                    <element signature="e#90495#90737#0" expanded="false" />
+                    <element signature="e#90802#91048#0" expanded="false" />
+                    <element signature="e#91113#91339#0" expanded="false" />
+                    <element signature="e#91403#91637#0" expanded="false" />
+                    <element signature="e#91740#93183#0" expanded="false" />
+                    <element signature="e#93237#93475#0" expanded="false" />
+                    <element signature="e#93546#93717#0" expanded="false" />
+                    <element signature="e#93788#94041#0" expanded="false" />
+                    <element signature="e#94135#94188#0" expanded="false" />
+                    <element signature="e#94253#94501#0" expanded="false" />
+                    <element signature="e#94582#94863#0" expanded="false" />
+                    <element signature="e#94904#95167#0" expanded="false" />
+                    <element signature="e#95243#98713#0" expanded="false" />
+                    <element signature="e#98783#100823#0" expanded="false" />
+                    <element signature="e#100876#101724#0" expanded="false" />
+                    <element signature="e#101795#102388#0" expanded="false" />
+                    <element signature="e#102427#102710#0" expanded="false" />
+                    <element signature="e#102752#103106#0" expanded="false" />
+                    <element signature="e#103169#103303#0" expanded="false" />
+                    <element signature="e#103344#103583#0" expanded="false" />
+                    <element signature="e#103652#104125#0" expanded="false" />
+                    <element signature="e#104164#104294#0" expanded="false" />
+                    <element signature="e#104336#104627#0" expanded="false" />
+                    <element signature="e#104707#109422#0" expanded="false" />
+                    <element signature="e#109491#109631#0" expanded="false" />
+                    <element signature="e#109674#109931#0" expanded="false" />
+                    <element signature="e#110018#110328#0" expanded="false" />
+                    <element signature="e#110368#110630#0" expanded="false" />
+                    <element signature="e#110693#110917#0" expanded="false" />
+                    <element signature="e#110961#111206#0" expanded="false" />
+                    <element signature="e#111304#113393#0" expanded="false" />
+                    <element signature="e#113532#114904#0" expanded="false" />
+                    <element signature="e#115048#118131#0" expanded="false" />
+                    <element signature="e#118276#120696#0" expanded="false" />
+                    <element signature="e#120843#120987#0" expanded="false" />
+                    <element signature="e#121031#121270#0" expanded="false" />
+                    <element signature="e#121339#121480#0" expanded="false" />
+                    <element signature="e#121523#121769#0" expanded="false" />
+                    <element signature="e#121836#123456#0" expanded="false" />
+                    <element signature="e#123498#123741#0" expanded="false" />
+                    <element signature="e#123811#125257#0" expanded="false" />
+                    <element signature="e#125302#125554#0" expanded="false" />
+                    <element signature="e#127952#130554#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="dialog13fujia_rizhixianshi.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/good/dialog13fujia_rizhixianshi.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="dialog2_tongbu.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/good/dialog2_tongbu.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="168" column="19" selection-start-line="168" selection-start-column="19" selection-end-line="168" selection-end-column="19" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="dialog2_tongbu.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/good/dialog2_tongbu.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.58016527">
+                  <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#3513#4236#0" expanded="false" />
+                    <element signature="e#4280#4499#0" expanded="false" />
+                    <element signature="e#4543#4823#0" expanded="false" />
+                    <element signature="e#4866#5146#0" expanded="false" />
+                    <element signature="e#5189#5469#0" expanded="false" />
+                    <element signature="e#5504#6261#0" expanded="false" />
+                    <element signature="e#6297#6549#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/UI/dialog12_chuangjianrizhi.py" />
+        <option value="$PROJECT_DIR$/good/dialog12_chuangjianrizhi.py" />
+        <option value="$PROJECT_DIR$/UI/test.py" />
+        <option value="$PROJECT_DIR$/good/123.py" />
+        <option value="$PROJECT_DIR$/good/dialog16_yuanwang.py" />
+        <option value="$PROJECT_DIR$/good/dialog7_shanchuxiguan.py" />
+        <option value="$PROJECT_DIR$/good/dialog11fujia_jinggao.py" />
+        <option value="$PROJECT_DIR$/good/dialog17fujia_jinggao.py" />
+        <option value="$PROJECT_DIR$/good/dialog17_feiqiyuanwang.py" />
+        <option value="$PROJECT_DIR$/good/dialog18_shanchujiangli.py" />
+        <option value="$PROJECT_DIR$/good/dialog8_shedingmeirixiguan.py" />
+        <option value="$PROJECT_DIR$/UI/zhuchuangkou.py" />
+        <option value="$PROJECT_DIR$/good/dialog20_shanchuzhuangbei.py" />
+        <option value="$PROJECT_DIR$/good/dialog13_wanchengrizhi.py" />
+        <option value="$PROJECT_DIR$/good/dialog2_tongbufujia.py" />
+        <option value="$PROJECT_DIR$/good/dialog2_tongbu_bak.py" />
+        <option value="$PROJECT_DIR$/good/dialog2_tongbubak.py" />
+        <option value="$PROJECT_DIR$/good/dialog2_tongbu3.py" />
+        <option value="$PROJECT_DIR$/good/dialog19_shanchunengli.py" />
+        <option value="$PROJECT_DIR$/good/appdenglu.py" />
+        <option value="$PROJECT_DIR$/good/zhuchuangkou.py" />
+        <option value="$PROJECT_DIR$/good/dialog13fujia_rizhixianshi.py" />
+        <option value="$PROJECT_DIR$/good/dialog2_tongbu.py" />
+        <option value="$PROJECT_DIR$/UI/fujia/fanqie.py" />
+      </list>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1421" />
+    <option name="y" value="2" />
+    <option name="width" value="2920" />
+    <option name="height" value="901" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyRPG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyRPG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resourses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyRPG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resourses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="good" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyRPG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resourses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyRPG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resourses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fujia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyRPG\good" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyRPG\good" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.fanqie">
+    <configuration default="false" name="dialog2_tongbu (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/good" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyRPG" />
+      <option name="SCRIPT_NAME" value="D:\MyRPG\good\dialog2_tongbu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="dialog2_tongbu3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/good" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyRPG" />
+      <option name="SCRIPT_NAME" value="D:\MyRPG\good\dialog2_tongbu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="dialog2_tongbu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/good" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyRPG" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/good/dialog2_tongbu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="appdenglu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/good" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyRPG" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/good/appdenglu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="fanqie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UI/fujia" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyRPG" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UI/fujia/fanqie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyRPG" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyRPG" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyRPG" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyRPG" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyRPG" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyRPG" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="dialog17_feiqiyuanwang" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/good" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyRPG" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/good/dialog17_feiqiyuanwang.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="zhuchuangkou" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/good" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyRPG" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/good/zhuchuangkou.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python.dialog17_feiqiyuanwang" />
+      <item index="1" class="java.lang.String" itemvalue="Python.zhuchuangkou" />
+      <item index="2" class="java.lang.String" itemvalue="Python.dialog2_tongbu (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.dialog2_tongbu3" />
+      <item index="4" class="java.lang.String" itemvalue="Python.dialog2_tongbu" />
+      <item index="5" class="java.lang.String" itemvalue="Python.appdenglu" />
+      <item index="6" class="java.lang.String" itemvalue="Python.fanqie" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.fanqie" />
+        <item index="1" class="java.lang.String" itemvalue="Python.dialog2_tongbu" />
+        <item index="2" class="java.lang.String" itemvalue="Python.appdenglu" />
+        <item index="3" class="java.lang.String" itemvalue="Python.dialog2_tongbu3" />
+        <item index="4" class="java.lang.String" itemvalue="Python.dialog2_tongbu (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78b2e87d-6800-4709-a4b6-842ece00c031" name="Default" comment="" />
+      <created>1442549152714</created>
+      <option name="number" value="Default" />
+      <updated>1442549152714</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1421" y="2" width="2920" height="901" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09745179" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2005044" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1911171" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/good/appdenglu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog2_tongbu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/zhuchuangkou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1706" column="0" selection-start-line="1706" selection-start-column="0" selection-end-line="1706" selection-end-column="0" />
+          <folding>
+            <element signature="e#23716#26274#0" expanded="false" />
+            <element signature="e#28376#29801#0" expanded="false" />
+            <element signature="e#29900#36507#0" expanded="false" />
+            <element signature="e#30042#30329#0" expanded="false" />
+            <element signature="e#30392#30679#0" expanded="false" />
+            <element signature="e#30739#31026#0" expanded="false" />
+            <element signature="e#31087#31374#0" expanded="false" />
+            <element signature="e#31436#31725#0" expanded="false" />
+            <element signature="e#31784#32071#0" expanded="false" />
+            <element signature="e#32139#33155#0" expanded="false" />
+            <element signature="e#33325#34741#0" expanded="false" />
+            <element signature="e#36579#44684#0" expanded="false" />
+            <element signature="e#38447#39365#0" expanded="false" />
+            <element signature="e#39464#44654#0" expanded="false" />
+            <element signature="e#39602#39892#0" expanded="false" />
+            <element signature="e#39950#40241#0" expanded="false" />
+            <element signature="e#40299#40590#0" expanded="false" />
+            <element signature="e#40648#40939#0" expanded="false" />
+            <element signature="e#41031#42047#0" expanded="false" />
+            <element signature="e#42160#43025#0" expanded="false" />
+            <element signature="e#44785#47593#0" expanded="false" />
+            <element signature="e#47662#50350#0" expanded="false" />
+            <element signature="e#50432#51724#0" expanded="false" />
+            <element signature="e#51801#57324#0" expanded="false" />
+            <element signature="e#57395#59399#0" expanded="false" />
+            <element signature="e#59463#60634#0" expanded="false" />
+            <element signature="e#60696#61259#0" expanded="false" />
+            <element signature="e#61348#66051#0" expanded="false" />
+            <element signature="e#66105#77927#0" expanded="false" />
+            <element signature="e#78026#78721#0" expanded="false" />
+            <element signature="e#78773#81496#0" expanded="false" />
+            <element signature="e#81686#81773#0" expanded="false" />
+            <element signature="e#81977#89731#0" expanded="false" />
+            <element signature="e#89781#89923#0" expanded="false" />
+            <element signature="e#89963#90429#0" expanded="false" />
+            <element signature="e#90495#90737#0" expanded="false" />
+            <element signature="e#90802#91048#0" expanded="false" />
+            <element signature="e#91113#91339#0" expanded="false" />
+            <element signature="e#91403#91637#0" expanded="false" />
+            <element signature="e#91740#93183#0" expanded="false" />
+            <element signature="e#93237#93475#0" expanded="false" />
+            <element signature="e#93546#93717#0" expanded="false" />
+            <element signature="e#93788#94041#0" expanded="false" />
+            <element signature="e#94135#94188#0" expanded="false" />
+            <element signature="e#94253#94501#0" expanded="false" />
+            <element signature="e#94582#94863#0" expanded="false" />
+            <element signature="e#94904#95167#0" expanded="false" />
+            <element signature="e#95243#98713#0" expanded="false" />
+            <element signature="e#98783#100823#0" expanded="false" />
+            <element signature="e#100876#101724#0" expanded="false" />
+            <element signature="e#101795#102388#0" expanded="false" />
+            <element signature="e#102427#102710#0" expanded="false" />
+            <element signature="e#102752#103106#0" expanded="false" />
+            <element signature="e#103169#103303#0" expanded="false" />
+            <element signature="e#103344#103583#0" expanded="false" />
+            <element signature="e#103652#104125#0" expanded="false" />
+            <element signature="e#104164#104294#0" expanded="false" />
+            <element signature="e#104336#104627#0" expanded="false" />
+            <element signature="e#104707#109422#0" expanded="false" />
+            <element signature="e#109491#109631#0" expanded="false" />
+            <element signature="e#109674#109931#0" expanded="false" />
+            <element signature="e#110018#110328#0" expanded="false" />
+            <element signature="e#110368#110630#0" expanded="false" />
+            <element signature="e#110693#110917#0" expanded="false" />
+            <element signature="e#110961#111206#0" expanded="false" />
+            <element signature="e#111304#113393#0" expanded="false" />
+            <element signature="e#113532#114904#0" expanded="false" />
+            <element signature="e#115048#118131#0" expanded="false" />
+            <element signature="e#118276#120696#0" expanded="false" />
+            <element signature="e#120843#120987#0" expanded="false" />
+            <element signature="e#121031#121270#0" expanded="false" />
+            <element signature="e#121339#121480#0" expanded="false" />
+            <element signature="e#121523#121769#0" expanded="false" />
+            <element signature="e#121836#123456#0" expanded="false" />
+            <element signature="e#123498#123741#0" expanded="false" />
+            <element signature="e#123811#125257#0" expanded="false" />
+            <element signature="e#125302#125554#0" expanded="false" />
+            <element signature="e#127952#130554#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/zhuchuangkou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog14_zengjiajiangli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="111" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog12_chuangjianrizhi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="341" column="0" selection-start-line="341" selection-start-column="0" selection-end-line="341" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/zhuchuangkou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog15_jiangliziji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.1991215">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog12_chuangjianrizhi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="341" column="0" selection-start-line="341" selection-start-column="0" selection-end-line="341" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog14_zengjiajiangli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="111" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5356551">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog10_tianjiarenwu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydev_monkey_qt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog16_yuanwang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7129964">
+          <caret line="235" column="0" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog11fujia_jinggao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="2" selection-end-line="51" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog7_shanchuxiguan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5361011">
+          <caret line="60" column="20" selection-start-line="55" selection-start-column="0" selection-end-line="60" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog17_feiqiyuanwang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2666667">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog8_shedingmeirixiguan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7247438">
+          <caret line="123" column="21" selection-start-line="123" selection-start-column="21" selection-end-line="123" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog17fujia_jinggao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38945827">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog4_shedingtianfunengli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="190" column="35" selection-start-line="190" selection-start-column="35" selection-end-line="190" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog18_shanchujiangli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34837544">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog20_shanchuzhuangbei.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog13_wanchengrizhi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0207039">
+          <caret line="107" column="26" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog11_wanchengrenwu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63561076">
+          <caret line="314" column="71" selection-start-line="314" selection-start-column="71" selection-end-line="314" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1442825926/PyQt5/QtCore/QThread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.4016564">
+          <caret line="100" column="8" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python34/Lib/encodings/latin_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4446764">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dengluxiaoxi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog5_zhuangbei.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6293996">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog19_shanchunengli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61196584">
+          <caret line="82" column="12" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python34/Lib/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33214286">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/appdenglu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.12823397">
+          <caret line="93" column="45" selection-start-line="93" selection-start-column="45" selection-end-line="93" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog1_cundangbucunzai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.40547946">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog3_shedingjibendian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.66164386">
+          <caret line="159" column="0" selection-start-line="159" selection-start-column="0" selection-end-line="166" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python34/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="306" column="0" selection-start-line="306" selection-start-column="0" selection-end-line="306" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/zhuchuangkou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8333335">
+          <caret line="499" column="108" selection-start-line="499" selection-start-column="21" selection-end-line="499" selection-end-column="108" />
+          <folding>
+            <element signature="e#23716#26274#0" expanded="false" />
+            <element signature="e#28376#29801#0" expanded="false" />
+            <element signature="e#29900#36507#0" expanded="false" />
+            <element signature="e#30042#30329#0" expanded="false" />
+            <element signature="e#30392#30679#0" expanded="false" />
+            <element signature="e#30739#31026#0" expanded="false" />
+            <element signature="e#31087#31374#0" expanded="false" />
+            <element signature="e#31436#31725#0" expanded="false" />
+            <element signature="e#31784#32071#0" expanded="false" />
+            <element signature="e#32139#33155#0" expanded="false" />
+            <element signature="e#33325#34741#0" expanded="false" />
+            <element signature="e#36579#44684#0" expanded="false" />
+            <element signature="e#38447#39365#0" expanded="false" />
+            <element signature="e#39464#44654#0" expanded="false" />
+            <element signature="e#39602#39892#0" expanded="false" />
+            <element signature="e#39950#40241#0" expanded="false" />
+            <element signature="e#40299#40590#0" expanded="false" />
+            <element signature="e#40648#40939#0" expanded="false" />
+            <element signature="e#41031#42047#0" expanded="false" />
+            <element signature="e#42160#43025#0" expanded="false" />
+            <element signature="e#44785#47593#0" expanded="false" />
+            <element signature="e#47662#50350#0" expanded="false" />
+            <element signature="e#50432#51724#0" expanded="false" />
+            <element signature="e#51801#57324#0" expanded="false" />
+            <element signature="e#57395#59399#0" expanded="false" />
+            <element signature="e#59463#60634#0" expanded="false" />
+            <element signature="e#60696#61259#0" expanded="false" />
+            <element signature="e#61348#66051#0" expanded="false" />
+            <element signature="e#66105#77927#0" expanded="false" />
+            <element signature="e#78026#78721#0" expanded="false" />
+            <element signature="e#78773#81496#0" expanded="false" />
+            <element signature="e#81686#81773#0" expanded="false" />
+            <element signature="e#81977#89731#0" expanded="false" />
+            <element signature="e#89781#89923#0" expanded="false" />
+            <element signature="e#89963#90429#0" expanded="false" />
+            <element signature="e#90495#90737#0" expanded="false" />
+            <element signature="e#90802#91048#0" expanded="false" />
+            <element signature="e#91113#91339#0" expanded="false" />
+            <element signature="e#91403#91637#0" expanded="false" />
+            <element signature="e#91740#93183#0" expanded="false" />
+            <element signature="e#93237#93475#0" expanded="false" />
+            <element signature="e#93546#93717#0" expanded="false" />
+            <element signature="e#93788#94041#0" expanded="false" />
+            <element signature="e#94135#94188#0" expanded="false" />
+            <element signature="e#94253#94501#0" expanded="false" />
+            <element signature="e#94582#94863#0" expanded="false" />
+            <element signature="e#94904#95167#0" expanded="false" />
+            <element signature="e#95243#98713#0" expanded="false" />
+            <element signature="e#98783#100823#0" expanded="false" />
+            <element signature="e#100876#101724#0" expanded="false" />
+            <element signature="e#101795#102388#0" expanded="false" />
+            <element signature="e#102427#102710#0" expanded="false" />
+            <element signature="e#102752#103106#0" expanded="false" />
+            <element signature="e#103169#103303#0" expanded="false" />
+            <element signature="e#103344#103583#0" expanded="false" />
+            <element signature="e#103652#104125#0" expanded="false" />
+            <element signature="e#104164#104294#0" expanded="false" />
+            <element signature="e#104336#104627#0" expanded="false" />
+            <element signature="e#104707#109422#0" expanded="false" />
+            <element signature="e#109491#109631#0" expanded="false" />
+            <element signature="e#109674#109931#0" expanded="false" />
+            <element signature="e#110018#110328#0" expanded="false" />
+            <element signature="e#110368#110630#0" expanded="false" />
+            <element signature="e#110693#110917#0" expanded="false" />
+            <element signature="e#110961#111206#0" expanded="false" />
+            <element signature="e#111304#113393#0" expanded="false" />
+            <element signature="e#113532#114904#0" expanded="false" />
+            <element signature="e#115048#118131#0" expanded="false" />
+            <element signature="e#118276#120696#0" expanded="false" />
+            <element signature="e#120843#120987#0" expanded="false" />
+            <element signature="e#121031#121270#0" expanded="false" />
+            <element signature="e#121339#121480#0" expanded="false" />
+            <element signature="e#121523#121769#0" expanded="false" />
+            <element signature="e#121836#123456#0" expanded="false" />
+            <element signature="e#123498#123741#0" expanded="false" />
+            <element signature="e#123811#125257#0" expanded="false" />
+            <element signature="e#125302#125554#0" expanded="false" />
+            <element signature="e#127952#130554#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog13fujia_rizhixianshi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good/dialog2_tongbu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="168" column="19" selection-start-line="168" selection-start-column="19" selection-end-line="168" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/fujia/fanqie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.28">
+          <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+          <folding>
+            <element signature="e#4487#5109#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
